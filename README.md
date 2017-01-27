@@ -1,5 +1,5 @@
 # BHS-Strong-no
-<p>Mapping Strong numbers onto the text of Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)</p>
+<p>Mapping Strong numbers onto the text of Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />(... in progress ... welcome corrections ...)</p>
 
 <h2>Hebrew Text</h2>
 <p>
