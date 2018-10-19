@@ -1,5 +1,6 @@
 # BHS-Strong-no [<a href="https://biblebento.com/" target="_blank">BibleBento.com</a>]
-<p>Mapping Strong numbers onto the text of Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />(... in progress ... welcome corrections ...)</p>
+<p>Mapping Strong numbers onto the text of Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
+<b>We are currently reviewing this dataset at: https://github.com/eliranwong/OpenHebrewBible</b>, will update data here upon completion.</p>
 
 <h2>Hebrew Text</h2>
 <p>
