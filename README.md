@@ -2,6 +2,10 @@
 <p>Mapping Strong numbers onto the text of Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
 <b>We are currently reviewing this dataset at: <a href='https://github.com/eliranwong/OpenHebrewBible'>https://github.com/eliranwong/OpenHebrewBible</a>.  We expect a major update in coming weeks / months.</b></p>
 
+<h2>Latest File</h2>
+<a href='https://github.com/eliranwong/BHS-Strong-no/blob/master/BHS-with-Strong-no-extended.csv'>BHS-with-Strong-no-extended.csv</a><br>
+This file is our latest work at <a href='https://github.com/eliranwong/OpenHebrewBible'>Open Hebrew Bible Project</a>
+
 <h2>Hebrew Text</h2>
 <p>
 The Hebrew text shown in SHEBANQ is taken from: Biblia Hebraica Stuttgartensia, edited by Karl Elliger and Wilhelm Rudolph, Fifth Revised Edition, edited by Adrian Schenker, © 1977 and 1997 Deutsche Bibelgesellschaft, Stuttgart.<br />
