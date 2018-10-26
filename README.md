@@ -3,7 +3,7 @@
 <b>We are currently reviewing this dataset at: <a href='https://github.com/eliranwong/OpenHebrewBible'>https://github.com/eliranwong/OpenHebrewBible</a>.  We expect a major update in coming weeks / months.</b></p>
 
 <h2>Latest File</h2>
-<a href='https://github.com/eliranwong/BHS-Strong-no/blob/master/BHS-with-Strong-no-extended.csv'>BHS-with-Strong-no-extended.csv</a><br>
+<a href='https://github.com/eliranwong/BHS-Strong-no/blob/master/BHS-with-Strong-no-extended.csv.zip'>BHS-with-Strong-no-extended.csv</a><br>
 This file is our latest work at <a href='https://github.com/eliranwong/OpenHebrewBible'>Open Hebrew Bible Project</a>
 
 <b>Remarks:</b>
