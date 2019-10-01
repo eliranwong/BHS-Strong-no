@@ -1,3 +1,10 @@
+# Looking for Android / iPhone / iPad versions?
+
+We have recently launched our mobile versions in Google Play Store and Apple App Store.
+
+Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a><br>
+Links for downloads: <a href='https://www.uniquebible.app/download'>https://www.uniquebible.app/download</a>
+
 # BHS-Strong-no [<a href="https://biblebento.com/" target="_blank">BibleBento.com</a>]
 <p>Mapping Strong numbers onto the text of Hebrew Bible (Biblia Hebraica Stuttgartensia, BHS, 5th edition)<br />
 <b>We are currently reviewing this dataset at: <a href='https://github.com/eliranwong/OpenHebrewBible'>https://github.com/eliranwong/OpenHebrewBible</a>.  We expect a major update in coming weeks / months.</b></p>
